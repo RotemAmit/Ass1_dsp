@@ -1,7 +1,5 @@
 DSP - Assignment 1
 
-Submit by: Tal Weisler 316297019 & Rotem Amit 314976903
-
 Details about the work:
 - AMI - ami-013de9c3851a399c6
 - InstanceID - T2_micro
