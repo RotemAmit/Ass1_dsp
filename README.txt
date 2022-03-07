@@ -1,4 +1,4 @@
-DSP - Assignment 1
+DSP - Assignment 1, Application to distributively apply OCR algorithmson images
 
 Details about the work:
 - AMI - ami-013de9c3851a399c6
